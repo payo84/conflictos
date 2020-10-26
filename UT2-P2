@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang=”es”>
+<head>
+<title>“P1_EJ5.html</title>
+<h1>
+Cabecera h1
+</h2<
+<h2>
+Cabecera h2
+<h3>
+Cabecera h3
+<h4>
+Cabecera h4
+<h5>
+Cabecera h5
+<h6>
+Cabecera h6
+<FONT SIZE=1>1</font><FONT SIZE=2>2</font> <FONT SIZE=3>3</font> <FONT SIZE=4>4</font> <FONT SIZE=5>5</font> <FONT SIZE=6>6</font> <FONT SIZE=7>7</font>
+ <FONT SIZE=6>6</font> <FONT SIZE=5>5</font> <FONT SIZE=4>4</font> <FONT SIZE=3>3</font> <FONT SIZE=2>2</font> <FONT SIZE=1>1</font>
+
+ <p>
+ Colores: <FONT COLOR=RED>C</font> <FONT COLOR=BLUE>O</font> <FONT COLOR=ORANGE>L</font>
+ <FONT COLOR=RED>O</font>  <FONT COLOR=GREEN>R</font>  <FONT COLOR=BLUE>O</font>  <FONT COLOR=YELLOW>E</font>  <FONT COLOR=PURPLE>S</font>
+ <FONT COLOR=GREEN>D</font>  <FONT COLOR=RED>E</font>  <FONT COLOR=BLUE>L</font>  <FONT COLOR=RED>E</font>  <FONT COLOR=PURPLE>T</font>  <FONT COLOR=GREEN>R</font>  <FONT COLOR=RED>A</font>
+ </p>
+ <p>
+ <b>Negrita</b>
+ </p>
+ <p>
+ <i>Cursiva</i>
+ </p>
+ <ins>Subrayado</ins>
+ <p>
+ <del>Tachado</del>
+ </p>
+ <p>
+ A<sup>Superindice</sup>
+ </p>
+ <p>
+ B<sub>Subindice</sub>
+ </p>
+ <p>
+ <em>Emphaticed text</strong>
+ </p>
+ <p>
+ <FONT FACE="Courier New "> Apice of computercode </FONT>
+ </p>
+ <p>
+ <FONT FACE= "Courier Now" >Sample output for computer program <
+ 
+ 
+</body>
+</html>
+                
